@@ -1,0 +1,28 @@
+name: jordiginabreda
+favicon: null
+layout_spectrum: 0.9633453977294266
+typography_spectrum: 0.1832220817450434
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.10660496051423252
+  lightness: 0.914529915433377
+  saturation: 0.058495368575677276
+  rhythmicContrast: 0.9868286771234125
+purpose: []
