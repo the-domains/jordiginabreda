@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[jordiginabreda]]></title>
+        <description><![CDATA[jordiginabreda]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 24 Jan 2016 23:50:37 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Jordi Ginabreda Interiorisme]]></title>
+            <description><![CDATA[<article><h1>Jordi Ginabreda Interiorisme</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ec0bc6467fd185bef225709a7875c0bac93f55fa.jpg"></article>]]></description>
+            <link>undefinedjordi-ginabreda-interiorisme/index.html</link>
+            <guid isPermaLink="false">e613fc49-de2e-4a1e-bc3c-6024f981290d</guid>
+            <pubDate>Sun, 24 Jan 2016 23:50:30 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
