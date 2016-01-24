@@ -1,6 +1,6 @@
 name: jordiginabreda
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.21098
 typography_spectrum: 0.1832220817450434
 cta:
   domain: null
@@ -24,5 +24,5 @@ color:
   brandStrength: 0.10660496051423252
   lightness: 0.914529915433377
   saturation: 0.058495368575677276
-  rhythmicContrast: 0.9868286771234125
+  rhythmicContrast: 1
 purpose: []
